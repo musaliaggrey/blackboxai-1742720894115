@@ -9,42 +9,81 @@ function Home() {
       name: "4K Smart TV",
       price: 699.99,
       image: "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg",
-      category: "Electronics"
+      category: "Electronics",
+      rating: 4.5,
+      reviews: 128
     },
     {
       id: 2,
-      name: "Coffee Maker",
-      price: 79.99,
+      name: "Smart Coffee Maker",
+      price: 129.99,
       image: "https://images.pexels.com/photos/3445161/pexels-photo-3445161.jpeg",
-      category: "Home"
+      category: "Kitchen",
+      rating: 4.3,
+      reviews: 95
     },
     {
       id: 3,
-      name: "Wireless Headphones",
-      price: 149.99,
+      name: "Noise-Canceling Headphones",
+      price: 199.99,
       image: "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg",
-      category: "Electronics"
+      category: "Electronics",
+      rating: 4.7,
+      reviews: 256
     },
     {
       id: 4,
-      name: "Air Purifier",
-      price: 199.99,
+      name: "Smart Air Purifier",
+      price: 249.99,
       image: "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg",
-      category: "Home"
+      category: "Smart Devices",
+      rating: 4.4,
+      reviews: 89
     },
     {
       id: 5,
-      name: "Smart Watch",
+      name: "Fitness Smart Watch",
       price: 299.99,
       image: "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg",
-      category: "Electronics"
+      category: "Smart Devices",
+      rating: 4.6,
+      reviews: 312
     },
     {
       id: 6,
-      name: "Blender",
-      price: 89.99,
+      name: "Professional Blender",
+      price: 159.99,
       image: "https://images.pexels.com/photos/3735208/pexels-photo-3735208.jpeg",
-      category: "Home"
+      category: "Kitchen",
+      rating: 4.2,
+      reviews: 167
+    },
+    {
+      id: 7,
+      name: "Robot Vacuum Cleaner",
+      price: 399.99,
+      image: "https://images.pexels.com/photos/4108715/pexels-photo-4108715.jpeg",
+      category: "Smart Devices",
+      rating: 4.5,
+      reviews: 203
+    },
+    {
+      id: 8,
+      name: "Smart Refrigerator",
+      price: 1299.99,
+      image: "https://images.pexels.com/photos/5825366/pexels-photo-5825366.jpeg",
+      category: "Home Appliances",
+      rating: 4.8,
+      reviews: 156
+    },
+    {
+      id: 9,
+      name: "Wireless Security Camera",
+      price: 79.99,
+      image: "https://images.pexels.com/photos/3205735/pexels-photo-3205735.jpeg",
+      category: "Smart Devices",
+      rating: 4.3,
+      reviews: 178
     }
   ]);
 
